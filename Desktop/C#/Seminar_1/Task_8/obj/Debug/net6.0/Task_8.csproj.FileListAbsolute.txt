@@ -1,0 +1,15 @@
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/obj/Debug/net6.0/Task_8.csproj.AssemblyReference.cache
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/obj/Debug/net6.0/Task_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/obj/Debug/net6.0/Task_8.AssemblyInfoInputs.cache
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/obj/Debug/net6.0/Task_8.AssemblyInfo.cs
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/obj/Debug/net6.0/Task_8.csproj.CoreCompileInputs.cache
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/bin/Debug/net6.0/Task_8
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/bin/Debug/net6.0/Task_8.deps.json
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/bin/Debug/net6.0/Task_8.runtimeconfig.json
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/bin/Debug/net6.0/Task_8.dll
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/bin/Debug/net6.0/Task_8.pdb
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/obj/Debug/net6.0/Task_8.dll
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/obj/Debug/net6.0/refint/Task_8.dll
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/obj/Debug/net6.0/Task_8.pdb
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/obj/Debug/net6.0/Task_8.genruntimeconfig.cache
+/Users/yongoon/Desktop/C#/Seminar_1/Task_8/obj/Debug/net6.0/ref/Task_8.dll
